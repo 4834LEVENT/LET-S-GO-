@@ -27,8 +27,18 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
+    position: relative;
 }
 span{
     font-size: 10rem;
     height: 20hv;
+}
+
+div #btn{
+font-size: larger;
+position: absolute;
+bottom: 5rem;
+right:17rem ;
+
 }
